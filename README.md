@@ -74,8 +74,7 @@ student-management-system-cpp/
 - [ ] Add user input interface for dynamic data
 
 ## 📌 Author
-
-- **Your Name**  
+ 
   [GitHub](https://github.com/TechieRs)
 
 ---
